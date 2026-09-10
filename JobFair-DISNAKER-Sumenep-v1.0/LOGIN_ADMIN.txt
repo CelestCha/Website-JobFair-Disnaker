@@ -1,0 +1,7 @@
+JOBFAIR DISNAKER SUMENEP - LOGIN ADMIN DEMO
+
+Email    : admin@disnakersumenep.go.id
+Password : Admin@123
+
+PENTING:
+Akun ini hanya untuk prototype/demo lokal. Jangan gunakan password hard-coded untuk versi produksi.
